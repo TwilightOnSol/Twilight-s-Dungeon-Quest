@@ -6,3 +6,4 @@ This repository is part of the TwilightOnSol ecosystem. It has been audited and 
 ## Project Structure
 - Dungeon Crawler.py
 - README.md
+- Manus AI feedback & overview
