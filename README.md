@@ -1,9 +1,9 @@
-# Twilight-s-Dungeon-Quest
+# Twilight's Dungeon Quest
 
 ## Overview
-This repository is part of the TwilightOnSol ecosystem. It has been audited and refactored for better performance and maintainability.
+A terminal-based RPG dungeon crawler written in Python. Players can explore dungeons, fight procedurally generated monsters, and level up their abilities.
 
-## Project Structure
-- Dungeon Crawler.py
-- README.md
-- Manus AI feedback & overview
+## Features
+- **Procedural Generation**: Monsters and attacks are generated with unique names and stats.
+- **Combat System**: Turn-based combat with different player abilities like Heal, Double Strike, and Fireball.
+- **Stats Tracking**: Keeps track of player health, speed, and inventory.
